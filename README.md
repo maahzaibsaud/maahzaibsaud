@@ -1,8 +1,7 @@
-![logo](https://github.com/maahzaibsaud/maahzaibsaud/commit/32bc101479ff28d306bc860e938a472f1da86552)
-<h1 align="center">Hi 👋, I'm Maahzaib Saudm</h1>
+![logo](https://github.com/maahzaibsaud/maahzaibsaud/blob/main/code.png)
+<h1 align="center">Hi 👋, I'm Maahzaib Saud</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahzaibsaud&label=Profile%20views&color=0e75b6&style=flat" alt="maahzaibsaud" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maahzaibsaud" target="blank"><img src="https://img.shields.io/twitter/follow/maahzaibsaud?logo=twitter&style=for-the-badge" alt="maahzaibsaud" /></a> </p>
